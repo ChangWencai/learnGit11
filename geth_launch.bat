@@ -1,0 +1,1 @@
+geth --datadir=yourPath --rpc --rpcapi admin,eth,miner,web3 --rpcport 8545 console
